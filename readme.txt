@@ -5,4 +5,8 @@ Git tracks changes of files.
 12345678
 Creating a new branch is quick.
 1234
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature
